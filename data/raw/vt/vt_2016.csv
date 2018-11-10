@@ -1,0 +1,826 @@
+year,stage,special,state,state_postal,state_fips,state_icpsr,county_name,county_fips,county_ansi,county_lat,county_long,jurisdiction,precinct,candidate,candidate_normalized,office,district,writein,party,mode,votes,candidate_opensecrets,candidate_wikidata,candidate_party,candidate_last,candidate_first,candidate_middle,candidate_full,candidate_suffix,candidate_nickname,candidate_fec,candidate_fec_name,candidate_google,candidate_govtrack,candidate_icpsr,candidate_maplight
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Lincoln,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Lincoln,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,57,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Lincoln,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,691,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Cornwall,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Cornwall,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,33,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Cornwall,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,669,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Goshen,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Goshen,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Goshen,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,106,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Salisbury,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Salisbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,64,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Salisbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,455,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Middlebury,1,[Write-in],in,US House,0,TRUE,,total,17,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Middlebury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,249,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Middlebury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3168,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bristol,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bristol,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,207,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bristol,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1608,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,New Haven,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,New Haven,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,110,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,New Haven,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,905,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Hancock,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Hancock,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,25,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Hancock,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,123,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Waltham,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Waltham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,20,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Waltham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,247,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Leicester,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Leicester,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,47,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Leicester,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,407,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Granville,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Granville,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Granville,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,132,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Addison,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Addison,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,88,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Addison,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,631,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bridport,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bridport,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Bridport,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,539,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ferrisburgh,1,[Write-in],in,US House,0,TRUE,,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ferrisburgh,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,147,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ferrisburgh,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1368,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Monkton,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Monkton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,116,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Monkton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1010,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Orwell,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Orwell,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,68,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Orwell,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,530,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Panton,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Panton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,33,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Panton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,291,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ripton,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ripton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Ripton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,308,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Shoreham,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Shoreham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,63,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Shoreham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,538,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Starksboro,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Starksboro,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,107,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Starksboro,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,771,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Vergennes,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Vergennes,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,104,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Vergennes,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1057,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Weybridge,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Weybridge,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,27,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Weybridge,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,514,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Whiting,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Whiting,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Addison County,50001,01461757,44.031248,-73.141581,Whiting,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,160,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Stamford,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Stamford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,60,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Stamford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,343,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Manchester,1,[Write-in],in,US House,0,TRUE,,total,18,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Manchester,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,192,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Manchester,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1976,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Woodford,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Woodford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Woodford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,154,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Peru,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Peru,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,19,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Peru,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,204,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Arlington,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Arlington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,142,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Arlington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1028,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 3,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,99,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 4,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 4,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,35,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sunderland,Bennington 4,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,328,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-1,[Write-in],in,US House,0,TRUE,,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,306,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2496,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-2,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,319,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Bennington,Bennington 2-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2450,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Dorset,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Dorset,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,86,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Dorset,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1018,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Landgrove,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Landgrove,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Landgrove,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,87,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Pownal,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Pownal,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,219,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Pownal,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1277,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Readsboro,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Readsboro,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,48,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Readsboro,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,288,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Rupert,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Rupert,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,38,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Rupert,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,323,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sandgate,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sandgate,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,27,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Sandgate,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,173,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Searsburg,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Searsburg,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Searsburg,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,42,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Shaftsbury,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Shaftsbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,163,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Shaftsbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1515,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Winhall,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Winhall,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,40,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Bennington County,50003,01461758,43.035325,-73.11146,Winhall,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,425,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Groton,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Groton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,75,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Groton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,376,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Waterford,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Waterford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,91,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Waterford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,571,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Burke,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Burke,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,81,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Burke,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,686,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Hardwick,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Hardwick,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,154,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Hardwick,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1163,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sheffield,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sheffield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,47,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sheffield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,232,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sutton,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sutton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,59,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Sutton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,360,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Danville,1,[Write-in],in,US House,0,TRUE,,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Danville,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,118,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Danville,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1122,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Barnet,1,[Write-in],in,US House,0,TRUE,,total,12,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Barnet,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,88,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Barnet,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,806,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Kirby,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Kirby,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,19,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Kirby,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,228,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Lyndon,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Lyndon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,232,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Lyndon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1664,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Newark,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Newark,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,48,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Newark,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,224,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Peacham,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Peacham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,44,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Peacham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,406,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Ryegate,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Ryegate,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,67,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Ryegate,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,464,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,St. Johnsbury,1,[Write-in],in,US House,0,TRUE,,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,St. Johnsbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,339,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,St. Johnsbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2469,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Stannard,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Stannard,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Stannard,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,79,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Walden,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Walden,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,59,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Walden,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,413,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Wheelock,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Wheelock,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,57,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Caledonia County,50005,01461759,44.468791,-72.112168,Wheelock,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,304,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-1,[Write-in],in,US House,0,TRUE,,total,24,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,308,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3856,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-2,[Write-in],in,US House,0,TRUE,,total,20,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,170,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1951,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-3,[Write-in],in,US House,0,TRUE,,total,21,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,340,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2968,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-4,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-4,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,181,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-4,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2001,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-5,[Write-in],in,US House,0,TRUE,,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-5,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,296,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-5,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,4309,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-6,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-6,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,89,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-6,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,914,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-7,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-7,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Burlington,Chittenden 6-7,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,104,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-1,[Write-in],in,US House,0,TRUE,,total,29,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,344,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,4073,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-2,[Write-in],in,US House,0,TRUE,,total,54,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,410,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,4271,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-3,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,105,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Essex,Chittenden 8-3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1209,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-1,[Write-in],in,US House,0,TRUE,,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,268,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2841,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-2,[Write-in],in,US House,0,TRUE,,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,371,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Colchester,Chittenden 9-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3778,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Bolton,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Bolton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,70,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Bolton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,578,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Charlotte,1,[Write-in],in,US House,0,TRUE,,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Charlotte,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,152,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Charlotte,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2235,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Richmond,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Richmond,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,181,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Richmond,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2165,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Huntington,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Huntington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,85,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Huntington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1081,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Westford,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Westford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,114,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Westford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1045,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Chittenden 10,[Write-in],in,US House,0,TRUE,,total,54,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Chittenden 10,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,464,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Chittenden 10,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3512,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Grand Isle-Chittenden,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Grand Isle-Chittenden,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,78,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Milton,Grand Isle-Chittenden,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,549,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,142,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2323,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-2,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,135,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Shelburne,Chittenden 5-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1862,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,14,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-2,[Write-in],in,US House,0,TRUE,,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,213,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Hinesburg,Chittenden 4-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2250,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Jericho,1,[Write-in],in,US House,0,TRUE,,total,19,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Jericho,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,239,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Jericho,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2797,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,145,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2286,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-2,[Write-in],in,US House,0,TRUE,,total,12,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,180,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2608,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-3,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,151,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2189,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-4,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-4,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,216,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,S. Burlington,Chittenden 7-4,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1922,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,St. George,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,St. George,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,30,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,St. George,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,305,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Underhill,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Underhill,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,165,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Underhill,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1643,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Williston,1,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Williston,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,413,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Williston,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,4749,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Winooski,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Winooski,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,270,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Chittenden County,50007,01461760,44.463329,-73.06941,Winooski,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2536,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Canaan,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Canaan,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,59,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Canaan,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,335,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Bloomfield,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Bloomfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,18,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Bloomfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,83,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Granby,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Granby,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Granby,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,36,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Norton,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Norton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Norton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,73,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Concord,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Concord,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,83,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Concord,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,446,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lunenburg,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lunenburg,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,82,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lunenburg,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,424,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brighton,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brighton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,95,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brighton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,421,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brunswick,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brunswick,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Brunswick,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,49,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,E. Haven,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,E. Haven,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,24,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,E. Haven,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,108,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Guildhall,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Guildhall,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Guildhall,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,116,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lemington,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lemington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Lemington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,49,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Maidstone,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Maidstone,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Maidstone,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,93,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Victory,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Victory,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Essex County,50009,01461761,44.724021,-71.732736,Victory,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,32,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Franklin,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Franklin,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Franklin,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,510,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Montgomery,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Montgomery,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,78,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Montgomery,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,527,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfield,1,[Write-in],in,US House,0,TRUE,,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,88,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,822,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Bakersfield,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Bakersfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,78,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Bakersfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,494,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Berkshire,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Berkshire,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,75,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Berkshire,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,514,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Enosburgh,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Enosburgh,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,100,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Enosburgh,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1051,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfax,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfax,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,279,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fairfax,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1969,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fletcher,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fletcher,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,65,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Fletcher,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,591,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Georgia,1,[Write-in],in,US House,0,TRUE,,total,18,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Georgia,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,255,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Georgia,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1990,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Highgate,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Highgate,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,156,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Highgate,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1156,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Richford,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Richford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,93,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Richford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,701,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Sheldon,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Sheldon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,62,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Sheldon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,716,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans City,1,[Write-in],in,US House,0,TRUE,,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans City,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,225,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans City,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2181,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-1,[Write-in],in,US House,0,TRUE,,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,93,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,860,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-2,[Write-in],in,US House,0,TRUE,,total,19,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,209,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,St. Albans Town,Franklin 3-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1768,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Swanton,1,[Write-in],in,US House,0,TRUE,,total,24,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Swanton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,282,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Franklin County,50011,01461762,44.858964,-72.909402,Swanton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2228,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Alburgh,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Alburgh,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,114,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Alburgh,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,725,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Grand Isle,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Grand Isle,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,120,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Grand Isle,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1000,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Isle La Motte,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Isle La Motte,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,39,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,Isle La Motte,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,234,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,N. Hero,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,N. Hero,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,62,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,N. Hero,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,540,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,S. Hero,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,S. Hero,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,100,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Grand Isle County,50013,01461763,44.801787,-73.300759,S. Hero,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,956,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Elmore,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Elmore,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,44,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Elmore,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,471,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Wolcott,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Wolcott,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,80,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Wolcott,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,679,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Johnson,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Johnson,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,161,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Johnson,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1060,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Cambridge,1,[Write-in],in,US House,0,TRUE,,total,22,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Cambridge,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,169,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Cambridge,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1661,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Belvidere,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Belvidere,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Belvidere,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,135,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Eden,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Eden,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,73,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Eden,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,447,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Hyde Park,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Hyde Park,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,140,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Hyde Park,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1305,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Morristown,1,[Write-in],in,US House,0,TRUE,,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Morristown,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,221,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Morristown,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2356,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Stowe,1,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Stowe,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,173,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Stowe,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2459,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Waterville,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Waterville,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,35,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Lamoille County,50015,01461764,44.603704,-72.638922,Waterville,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,306,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Randolph,1,[Write-in],in,US House,0,TRUE,,total,15,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Randolph,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,277,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Randolph,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1838,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Washington,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Washington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,71,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Washington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,434,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Orange,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Orange,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,62,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Orange,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,435,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Brookfield,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Brookfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,89,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Brookfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,616,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Bradford,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Bradford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,131,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Bradford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,990,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Newbury,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Newbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,106,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Newbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,896,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Braintree,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Braintree,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,58,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Braintree,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,499,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Williamstown,1,[Write-in],in,US House,0,TRUE,,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Williamstown,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,162,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Williamstown,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1292,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Chelsea,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Chelsea,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,75,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Chelsea,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,525,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Strafford,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Strafford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,46,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Strafford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,620,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Corinth,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Corinth,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,88,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Corinth,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,532,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Fairlee,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Fairlee,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,49,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Fairlee,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,486,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Thetford,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Thetford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,100,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Thetford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1453,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Topsham,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Topsham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,60,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Topsham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,461,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Tunbridge,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Tunbridge,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Tunbridge,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,592,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Vershire,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Vershire,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,39,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,Vershire,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,297,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,W. Fairlee,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,W. Fairlee,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,40,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orange County,50017,01461765,44.003392,-72.369687,W. Fairlee,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,246,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Morgan,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Morgan,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,45,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Morgan,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,266,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Coventry,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Coventry,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,57,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Coventry,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,424,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Derby,1,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Derby,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,249,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Derby,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1779,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Jay,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Jay,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,22,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Jay,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,204,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Barton,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Barton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,138,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Barton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,847,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Lowell,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Lowell,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,60,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Lowell,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,333,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Holland,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Holland,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,58,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Holland,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,221,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westfield,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,35,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,244,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Albany,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Albany,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,58,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Albany,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,364,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans 2,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans 2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans 2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,145,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans-Lamoille,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans-Lamoille,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,49,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Troy,Orleans-Lamoille,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,392,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Charleston,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Charleston,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,103,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Charleston,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,324,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Brownington,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Brownington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,53,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Brownington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,306,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Craftsbury,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Craftsbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Craftsbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,555,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Glover,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Glover,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,72,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Glover,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,481,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Greensboro,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Greensboro,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,37,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Greensboro,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,371,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Irasburg,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Irasburg,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,60,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Irasburg,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,456,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport City,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport City,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,190,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport City,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1261,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport Town,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport Town,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,84,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Newport Town,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,554,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westmore,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westmore,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,25,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Orleans County,50019,01461766,44.828442,-72.25163,Westmore,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,168,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wallingford,1,[Write-in],in,US House,0,TRUE,,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wallingford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,113,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wallingford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,917,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wells,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wells,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Wells,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,470,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Sudbury,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Sudbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,38,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Sudbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,258,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Shrewsbury,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Shrewsbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,51,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Shrewsbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,558,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mendon,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mendon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,54,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mendon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,533,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsfield,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,27,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,255,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Benson,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Benson,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,68,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Benson,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,406,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Clarendon,1,[Write-in],in,US House,0,TRUE,,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Clarendon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,149,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Clarendon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,997,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Brandon,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Brandon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,199,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Brandon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1564,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Castleton,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Castleton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,203,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Castleton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1450,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Chittenden,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Chittenden,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,63,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Chittenden,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,619,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Danby,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Danby,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,91,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Danby,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,513,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Fair Haven,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Fair Haven,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,126,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Fair Haven,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,952,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Hubbardton,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Hubbardton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,49,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Hubbardton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,308,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Ira,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Ira,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,17,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Ira,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,209,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Killington,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Killington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,66,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Killington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,535,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Middletown Springs,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Middletown Springs,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,47,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Middletown Springs,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,390,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Holly,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Holly,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,107,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Holly,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,594,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Tabor,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Tabor,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Mount Tabor,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,73,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pawlet,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pawlet,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,66,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pawlet,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,617,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsford,1,[Write-in],in,US House,0,TRUE,,total,21,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,159,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Pittsford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1239,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Poultney,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Poultney,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,168,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Poultney,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1170,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Proctor,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Proctor,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,75,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Proctor,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,734,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-1,[Write-in],in,US House,0,TRUE,,total,25,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,175,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1865,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-2,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,181,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1533,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-3,[Write-in],in,US House,0,TRUE,,total,16,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,166,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1080,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-4,[Write-in],in,US House,0,TRUE,,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-4,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,161,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland City,Rutland 5-4,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1374,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland Town,1,[Write-in],in,US House,0,TRUE,,total,14,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland Town,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,160,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Rutland Town,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1942,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland 2,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland 2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland 2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,67,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland-Bennington,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland-Bennington,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,28,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,Tinmouth,Rutland-Bennington,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,175,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Haven,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Haven,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,17,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Haven,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,118,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Rutland,1,[Write-in],in,US House,0,TRUE,,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Rutland,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,150,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Rutland County,50021,01461767,43.580858,-73.038202,W. Rutland,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,827,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Berlin,1,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Berlin,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,137,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Berlin,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1135,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Roxbury,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Roxbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,35,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Roxbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,311,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Warren,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Warren,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,92,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Warren,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,908,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Woodbury,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Woodbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,58,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Woodbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,437,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waterbury,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waterbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,212,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waterbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2628,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Plainfield,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Plainfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,72,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Plainfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,563,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Duxbury,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Duxbury,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,84,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Duxbury,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,649,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Marshfield,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Marshfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,109,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Marshfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,680,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Worcester,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Worcester,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,61,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Worcester,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,509,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Northfield,1,[Write-in],in,US House,0,TRUE,,total,12,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Northfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,195,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Northfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1847,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Middlesex,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Middlesex,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,102,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Middlesex,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,947,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre City,1,[Write-in],in,US House,0,TRUE,,total,21,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre City,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,351,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre City,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2701,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre Town,1,[Write-in],in,US House,0,TRUE,,total,33,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre Town,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,422,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Barre Town,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3511,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Cabot,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Cabot,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,65,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Cabot,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,643,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Calais,1,[Write-in],in,US House,0,TRUE,,total,7,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Calais,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,97,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Calais,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,865,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,E. Montpelier,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,E. Montpelier,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,131,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,E. Montpelier,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1392,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Fayston,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Fayston,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,65,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Fayston,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,711,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Montpelier,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Montpelier,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,296,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Montpelier,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,4260,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Moretown,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Moretown,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,83,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Moretown,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,881,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waitsfield,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waitsfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,85,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Washington County,50023,01461768,44.274988,-72.609514,Waitsfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,967,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Vernon,1,[Write-in],in,US House,0,TRUE,,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Vernon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,117,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Vernon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,883,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Guilford,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Guilford,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,105,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Guilford,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,991,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Windham,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Windham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,33,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Windham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,232,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Halifax,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Halifax,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,44,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Halifax,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,328,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wilmington,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wilmington,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,108,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wilmington,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,841,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brookline,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brookline,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,23,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brookline,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,237,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dover,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dover,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,87,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dover,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,620,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Grafton,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Grafton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,45,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Grafton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,301,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 3,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,65,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 4,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 4,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,139,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Westminster,Windham 4,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1235,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Londonderry,1,[Write-in],in,US House,0,TRUE,,total,3,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Londonderry,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,93,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Londonderry,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,780,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Athens,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Athens,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,30,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Athens,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,126,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Marlboro,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Marlboro,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,44,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Marlboro,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,491,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,158,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1832,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-2,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,180,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1574,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-3,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-3,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,166,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Brattleboro,Windham 2-3,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1613,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dummerston,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dummerston,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,78,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Dummerston,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1014,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Jamaica,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Jamaica,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,46,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Jamaica,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,432,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Newfane,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Newfane,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,80,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Newfane,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,842,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Putney,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Putney,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,92,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Putney,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1161,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Rockingham,1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Rockingham,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,228,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Rockingham,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1760,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Stratton,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Stratton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Stratton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,107,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Townshend,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Townshend,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Townshend,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,546,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wardsboro,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wardsboro,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,36,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Wardsboro,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,336,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham 6,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham 6,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,68,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham 6,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,471,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham-Bennington,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham-Bennington,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windham County,50025,01461769,42.995335,-72.721955,Whitingham,Windham-Bennington,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,25,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bethel,1,[Write-in],in,US House,0,TRUE,,total,11,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bethel,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,103,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bethel,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,845,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bridgewater,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bridgewater,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,69,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Bridgewater,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,416,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Plymouth,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Plymouth,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,41,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Plymouth,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,271,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Sharon,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Sharon,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,75,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Sharon,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,642,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-1,[Write-in],in,US House,0,TRUE,,total,8,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,117,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1028,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-2,[Write-in],in,US House,0,TRUE,,total,22,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,365,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartford,Windsor 4-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3337,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Pomfret,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Pomfret,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,42,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Pomfret,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,531,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Woodstock,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Woodstock,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,148,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Woodstock,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1631,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Windsor,1,[Write-in],in,US House,0,TRUE,,total,6,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Windsor,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,179,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Windsor,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1425,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Chester,1,[Write-in],in,US House,0,TRUE,,total,5,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Chester,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,185,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Chester,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1257,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weston,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weston,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,27,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weston,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,369,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartland,1,[Write-in],in,US House,0,TRUE,,total,13,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartland,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,175,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Hartland,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1645,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Norwich,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Norwich,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,70,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Norwich,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,2157,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Andover,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Andover,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,37,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Andover,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,264,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Rochester,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Rochester,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,58,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Rochester,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,554,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Stockbridge,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Stockbridge,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,45,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Stockbridge,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,359,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Ludlow,1,[Write-in],in,US House,0,TRUE,,total,1,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Ludlow,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,129,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Ludlow,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,876,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,25,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,116,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-2,[Write-in],in,US House,0,TRUE,,total,17,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-2,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,473,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Springfield,Windsor 3-2,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,3063,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Reading,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Reading,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,29,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Reading,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,310,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Baltimore,1,[Write-in],in,US House,0,TRUE,,total,0,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Baltimore,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,10,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Baltimore,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,110,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Barnard,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Barnard,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,48,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Barnard,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,470,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Cavendish,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Cavendish,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,103,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Cavendish,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,523,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Royalton,1,[Write-in],in,US House,0,TRUE,,total,9,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Royalton,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,135,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Royalton,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1105,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weathersfield,1,[Write-in],in,US House,0,TRUE,,total,4,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weathersfield,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,225,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,Weathersfield,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,1241,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,W. Windsor,1,[Write-in],in,US House,0,TRUE,,total,2,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,W. Windsor,1,Erica Clawson,clawson,US House,0,FALSE,Liberty Union,total,62,,,,,,,,,,,,,,,
+2016,gen,FALSE,Vermont,VT,50,6,Windsor County,50027,01461770,43.572685,-72.598821,W. Windsor,1,Peter Welch,welch,US House,0,FALSE,Democratic/Republican,total,610,N00000515,Q1112656,Democrat,Welch,Peter,,Peter Welch,,,H6VT00160; H8VT00034,,kg:/m/0db4gl,412239,20750,722
