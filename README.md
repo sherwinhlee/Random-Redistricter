@@ -3,11 +3,14 @@
 ## Background
 The concept of redistricting is a popular topic in discussions about congressional representation in the United States. Parties in power often resort to "[gerrymandering](https://en.wikipedia.org/wiki/Gerrymandering)" - the act of re-drawing district boundaries to gain an advantage in the balance of representation. The purpose of this project is to explore how representation in the U.S. House of Representatives shifts from randomizing the redistricting process.
 
+This project uses precinct-level returns from the 2016 U.S. congressional elections and the 2010 U.S. Census Redistricting Data Program.
+
 ## Updates & Project Timeline
 *Progress will be dictated by how well I balance coursework, research, job-hunting, and taking care of a newborn. :)*
-- **November 2018** - project initiation, source data, Exploratory Data Analysis (EDA), pre-processing
-- **December 2018** - implement clustering algorithm (still TBD) to partition each state into congressional districts
-- **January 2019** - develop map-based UI on an OSM base
+- **November 2018** - ~~project initiation, source data, Exploratory Data Analysis (EDA), pre-processing~~
+- **December 2018** - ~~complete EDA/pre-processing of precinct returns, initiate pre-processing for Census data and develop DB structure~~
+- **January 2019** - implement clustering algorithm (still TBD) to partition each state into congressional districts
+- **February 2019 - ?** - develop map-based UI on an OSM base
 
 ### To-Do List (updated 12/30/18)
 1. ~~Source precinct-level returns data from Harvard Dataverse~~
