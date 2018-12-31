@@ -1,5 +1,6 @@
 import glob
 import os
+import unzip as uz
 from urllib import request as rq
 
 PARENT = os.path.realpath('..')
@@ -67,3 +68,4 @@ for folder in glob.iglob(IN_DIR + '*/'):
         state_link = CEN_ROOT + 'tl_2012_' + state_codes[state.upper()] + '_vtd10.zip'
         save_path = IN_DIR + state + '\\tl_2012_' + state_codes[state.upper()] + '_vtd10.zip'
         rq.urlretrieve(state_link, save_path)
+        uz.extract(save_path, IN_DIR + state + '\\')
